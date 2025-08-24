@@ -1,5 +1,7 @@
 👋 Welcome to GY20's Research Hub!
-Hello! I'm GY20, a dedicated researcher passionate about advancing knowledge in  Operations Research. My work focuses on solving complex problems through innovative algorithms and interdisciplinary approaches. Thanks for visiting! 🚀
+Hello! I'm GY20, a dedicated researcher passionate about advancing knowledge in  Operations Research. 
+My work focuses on solving complex problems through innovative algorithms and interdisciplinary approaches. 
+Thanks for visiting! 🚀
 
 🌟 About Me
 
@@ -12,4 +14,5 @@ Hello! I'm GY20, a dedicated researcher passionate about advancing knowledge in 
 
 
 
-“The important thing is not to stop questioning. Curiosity has its own reason for existing.” – Albert Einstein
+“The important thing is not to stop questioning. Curiosity has its own reason for existing.”
+– Albert Einstein
