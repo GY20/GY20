@@ -6,7 +6,9 @@ Thanks for visiting! 🚀
 🌟 About Me
 
 🔬 Current research: Dynamic Scheduling Algorithms
+
 🌱 Exploring: Graph Neural Networks or Multi-Agent Systems
+
 💬 Ask me about: Scheduling Theory or Computational Models
 
 🕒 Recent Publications
@@ -14,5 +16,5 @@ Thanks for visiting! 🚀
 
 
 
-“The important thing is not to stop questioning. Curiosity has its own reason for existing.”
+The important thing is not to stop questioning. Curiosity has its own reason for existing.
 – Albert Einstein
